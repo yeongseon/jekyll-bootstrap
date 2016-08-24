@@ -81,7 +81,7 @@ JB :
   #
   comments :
     provider : disqus
-    disqus : yeongseon
+    disqus : https-yeongseon-github-io
       short_name : jekyllbootstrap
     livefyre :
       site_id : 123
