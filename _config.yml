@@ -84,7 +84,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : 'https-yeongseon-github-io'
+      short_name : 'yeongseon'
     livefyre :
       site_id : 123
     intensedebate :
