@@ -8,13 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : YSCHOE
-tagline: Site Tagline
+title : "YSCHOE"
+tagline: ["파이썬"]
 author :
-  name : Yeongseon Choe
-  email : yeongseon.choe@gmail.com
-  github : yeongseon.choe@gmail.com
-  twitter : yeongseonchoe
+  name : "Yeongseon Choe"
+  email : "yeongseon.choe@gmail.com"
+  github : "https://githubyeongseon"
+  twitter : "https://twitter.com/yeongseonchoe"
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : 'https://yeongseon.github.io'
+production_url : https://yeongseon.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -81,8 +81,8 @@ JB :
   #
   comments : 
     provider : disqus
-    disqus : 'https-yeongseon-github-io'
-      short_name : jekyllbootstrap
+    disqus : 
+      short_name : https-yeongseon-github-io
     livefyre :
       site_id : 123
     intensedebate :
