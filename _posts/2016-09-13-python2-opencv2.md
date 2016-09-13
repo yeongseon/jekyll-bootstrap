@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Install OpenCV2 and Python2 on Windows"
 description: ""
-category:
+category: python-opencv
 tags: [Python2, OpenCV2]
 ---
 {% include JB/setup %}
