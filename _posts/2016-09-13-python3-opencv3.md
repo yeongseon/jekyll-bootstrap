@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Install OpenCV3 and Python3 on Windows"
 description: ""
-category:
+category: python-opencv
 tags: [Python3, OpenCV3]
 ---
 {% include JB/setup %}
