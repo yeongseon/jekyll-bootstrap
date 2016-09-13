@@ -79,15 +79,10 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments : 
+  comments :
     provider : disqus
-<<<<<<< HEAD
-    disqus : 
-      short_name : "https-yeongseon-github-io"
-=======
     disqus :
       short_name : 'yeongseon'
->>>>>>> origin/master
     livefyre :
       site_id : 123
     intensedebate :
